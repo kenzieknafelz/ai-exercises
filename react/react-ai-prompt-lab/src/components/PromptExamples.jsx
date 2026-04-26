@@ -1,7 +1,7 @@
         const prompts = [
-          'Write a short welcome message for a website.',
-          'Summarize a paragraph in simple language.',
-          'Create three blog title ideas about coding.'
+          'Help me rewrite this paragraph to sound more professional.',
+          'Create a 5-step checklist for planning a class presentation.',
+          'Explain JavaScript functions to a high schooler using simple language and include a visual example.'
         ]
 
         export default function PromptExamples() {

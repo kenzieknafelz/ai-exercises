@@ -1,7 +1,7 @@
         export default function Footer() {
           return (
             <footer className="card footer">
-              <p>Update this footer with your name, bootcamp, or class period.</p>
+              <p>&copy; Kenzie Knafelz, QuickStart AI Centric Software Engineering Bootcamp</p>
             </footer>
           )
         }

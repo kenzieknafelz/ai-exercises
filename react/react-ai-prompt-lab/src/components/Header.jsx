@@ -2,7 +2,7 @@
           return (
             <header className="card header">
               <h1>AI Prompt Lab</h1>
-              <p>Practice editing React components by improving this page.</p>
+              <p>Hello! Welcome to the AI Prompt Lab.</p>
             </header>
           )
         }
