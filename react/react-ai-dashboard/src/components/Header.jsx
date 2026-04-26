@@ -1,8 +1,8 @@
         export default function Header() {
           return (
             <header className="card header">
-              <h1>AI Dashboard Starter</h1>
-              <p>Edit this component to describe your AI dashboard.</p>
+              <h1>AI Tools</h1>
+              <p>This dashboard is designed to display different AI tools and benefits.</p>
             </header>
           )
         }

@@ -1,7 +1,10 @@
         const tools = [
-          { name: 'Tool 1', purpose: 'Replace this text with a real AI tool use case.' },
-          { name: 'Tool 2', purpose: 'Replace this text with a second example.' },
-          { name: 'Tool 3', purpose: 'Replace this text with a third example.' },
+          { name: 'GitHub Copilot', purpose: 'Suggests code in real time and helps developers write software faster.' },
+          { name: 'ChatGPT', purpose: 'Generates text, answers questions, and assists with research and communication tasks.' },
+          { name: 'Notion AI', purpose: 'Automates note-taking, summarization, and document drafting within productivity workflows.' },
+          { name: 'Grammarly', purpose: 'Improves grammar, tone, and clarity in writing.' },
+          { name: 'Jasper AI', purpose: 'Generates marketing copy, blog posts, and ad content.' },
+          { name: 'Perplexity AI', purpose: 'Provides fast, cited answers by combining search engine results with AI summaries.' },
         ]
 
         export default function ToolGrid() {

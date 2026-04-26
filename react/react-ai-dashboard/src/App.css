@@ -5,7 +5,7 @@
     body {
       margin: 0;
       font-family: Arial, Helvetica, sans-serif;
-      background: #f4f6f8;
+      background: #69aff6;
       color: #1f2937;
     }
 
@@ -16,7 +16,8 @@
     }
 
     .card {
-      background: white;
+      background: rgba(180, 204, 249, 0.5);
+      color: white;
       border-radius: 12px;
       padding: 18px;
       margin-bottom: 18px;
